@@ -1,12 +1,12 @@
 {
-  "name": "grunt-contrib-uglify",
-  "description": "Minify JavaScript files with UglifyJS",
-  "version": "3.0.1",
+  "name": "hers-grunt-contrib-uglify",
+  "description": "Minify JavaScript files with UglifyJS (Updated dependencies)",
+  "version": "3.0.2",
   "author": {
-    "name": "Grunt Team",
+    "name": "Grunt Team with HERS Belgrade",
     "url": "http://gruntjs.com/"
   },
-  "repository": "gruntjs/grunt-contrib-uglify",
+  "repository": "hers-belgrade/hers-grunt-contrib-uglify",
   "license": "MIT",
   "engines": {
     "node": ">=0.10.0"

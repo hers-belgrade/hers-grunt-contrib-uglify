@@ -1,7 +1,7 @@
 {
   "name": "hers-grunt-contrib-uglify",
   "description": "Minify JavaScript files with UglifyJS (Updated dependencies)",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "author": {
     "name": "Grunt Team with HERS Belgrade",
     "url": "http://gruntjs.com/"
@@ -16,17 +16,17 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "chalk": "^1.0.0",
-    "maxmin": "^1.1.0",
-    "uglify-es": "^3.0.18",
-    "uri-path": "^1.0.0"
+    "chalk": "4.x",
+    "maxmin": "3.x",
+    "uglify-es": "3.x",
+    "uri-path": "1.x"
   },
   "devDependencies": {
-    "grunt": "^1.0.0",
-    "grunt-contrib-clean": "^1.0.0",
-    "grunt-contrib-internal": "^1.1.0",
-    "grunt-contrib-jshint": "^1.0.0",
-    "grunt-contrib-nodeunit": "^1.0.0"
+    "grunt": "1.x",
+    "grunt-contrib-clean": "2.x",
+    "grunt-contrib-internal": "6.x",
+    "grunt-contrib-jshint": "3.x",
+    "grunt-contrib-nodeunit": "3.x"
   },
   "keywords": [
     "gruntplugin"
